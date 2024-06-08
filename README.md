@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @DevDuulat
-  
-<!---
-DevDuulat/DevDuulat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+𝕳𝖎, 𝖒𝖞 𝖓𝖆𝖒𝖊 𝖎𝖉 𝕯𝖚𝖚𝖑𝖆𝖙
