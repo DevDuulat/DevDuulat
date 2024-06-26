@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duulat</h1>
 
 <p align="center">
-  <img width="30%" src="https://github.com/DevDuulat/DevDuulat/assets/153935540/7de7fc97-dfa5-4d67-9cc9-c54c8713589b">
+  <img width="30%" src="https://github.com/DevDuulat/DevDuulat/assets/153935540/b44e1afc-472a-40ba-913f-c4dd5e3bb5f9">
 </p>
 
 
