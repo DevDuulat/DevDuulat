@@ -1,9 +1,9 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Duulat</h1>
 
 <p align="center">
   <img width="30%" src="https://github.com/DevDuulat/DevDuulat/assets/153935540/7de7fc97-dfa5-4d67-9cc9-c54c8713589b">
 </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevDuulat&label=Profile%20views&color=0e75b6&style=flat" alt="DevDuulat" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
