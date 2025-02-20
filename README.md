@@ -1,22 +1,5 @@
 <p align="center">👋 Hello World, I'm Duulat!<br>🚀 Fullstack Developer | PHP | Laravel | Vue.js</p>
 
-
-<p align="center">
-  Welcome to my GitHub! I'm a passionate fullstack developer specializing in <br>
-  <b>PHP, Laravel, and Vue.js</b>. I love building scalable web applications <br>
-  and constantly learning new technologies.
-</p>
-
-
-<h2 align="center">📌 Currently working on</h2>
-
-<p align="center">Exciting new projects in <b>Laravel & Vue</b>.</p>
-
-<h2 align="center">🤝 Looking to collaborate on</h2>
-
-<p align="center">Open-source projects & innovative web apps.</p>
-
-
 ###
 
 <div align="center">
@@ -28,7 +11,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -51,10 +34,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/DevDuulat/DevDuulat/output/snake.svg" alt="Snake animation" />
 
 ###
 
