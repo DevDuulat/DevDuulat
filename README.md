@@ -35,6 +35,5 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
-<p align="center">
 [![roadmap.sh](https://roadmap.sh/card/wide/664af2ccbc68b74d9beb51ea?variant=dark)](https://roadmap.sh)
-</p>
+
