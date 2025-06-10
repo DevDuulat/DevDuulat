@@ -31,6 +31,11 @@
   <img src="https://giffiles.alphacoders.com/350/35099.gif" alt="Coding GIF" width="500"/>
 </p>
 
+---
+
+🎧 Currently vibing to:  
+[![Spotify](https://img.shields.io/badge/Now_Playing-0jkCWLX23gTLWtcSk1Vxyc-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/0jkCWLX23gTLWtcSk1Vxyc)
+
 
 
 
