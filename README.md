@@ -17,10 +17,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DevDuulat&icon=9&color=0)](https://visitcount.itsvg.in)
-
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giffiles.alphacoders.com/350/35099.gif)" alt="Coding GIF" width="500"/>
+  <img src="https://giffiles.alphacoders.com/350/35099.gif" alt="Coding GIF" width="500"/>
 </p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
