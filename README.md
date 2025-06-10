@@ -32,6 +32,7 @@
 
 ---
 
+[![Spotify](https://img.shields.io/badge/Spotify-Listen-green?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0jkCWLX23gTLWtcSk1Vxyc)
 
 
 
