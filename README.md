@@ -1,4 +1,21 @@
-<h1 align="center">👋 Hey there, I'm Duulat!</h1>
+<h1 align="center">
+  <span style="display:inline-block; animation: wave 2s infinite;">👋</span> Hey there, I'm Duulat!
+</h1>
+
+<p align="center"><strong>🇰🇬 I'm from Kyrgyz Republic</strong></p>
+
+<style>
+@keyframes wave {
+  0% { transform: rotate(0deg); }
+  15% { transform: rotate(14deg); }
+  30% { transform: rotate(-8deg); }
+  45% { transform: rotate(14deg); }
+  60% { transform: rotate(-4deg); }
+  75% { transform: rotate(10deg); }
+  100% { transform: rotate(0deg); }
+}
+</style>
+
 
 <p align="center">
   🚀 <strong>Fullstack Developer | PHP | Laravel | Vue.js</strong>  
