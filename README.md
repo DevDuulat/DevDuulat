@@ -1,21 +1,21 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/1f/31/48/1f31484eb94a802f5d6065b7b059435e.jpg" alt="Banner" width="100%"/>
+  <img src="https://i.pinimg.com/1200x/be/49/5a/be495a9ae2bb6de49ac21e5f83f269b6.jpg"alt="Banner" width="100%"/>
 </p>
 
-<h1 align="center">Hey there, I'm <span style="color:#4FC08D;">Duulat</span></h1>
+<h1 align="center">Hey there, I'm <span style="color:#4FC08D;">Duulat</span> 👋</h1>
 <p align="center">
   <strong>🇰🇬 Fullstack Developer from Kyrgyz Republic</strong><br/>
-  <strong>PHP | Laravel | Vue.js | TailwindCSS | Filament</strong>
+  <strong>PHP | Laravel | Vue.js | TailwindCSS </strong>
 </p>
 
 ---
 
-### About Me
-- 💻 Passionate about clean code and backend architecture  
-- ⚡ Focused on building scalable Laravel + Vue.js apps  
-- 🎯 Always learning new web technologies  
-- ☕ Fuelled by coffee and curiosity  
+###  About Me
+- Passionate about clean code and backend architecture  
+- Focused on building scalable Laravel + Vue.js apps  
+- Always learning new web technologies  
+- Fuelled by coffee and curiosity  
 
 ---
 
