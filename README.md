@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/1200x/be/49/5a/be495a9ae2bb6de49ac21e5f83f269b6.jpg"alt="Banner" width="100%"/>
 </p>
 
-<h1 align="center">Hey there, I'm <span style="color:#4FC08D;">Duulat</span> 👋</h1>
+<h1 align="center">Hey there, I'm <span style="color:#4FC08D;">Duulat</span></h1>
 <p align="center">
   <strong>🇰🇬 Fullstack Developer from Kyrgyz Republic</strong><br/>
   <strong>PHP | Laravel | Vue.js | TailwindCSS </strong>
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,tailwind,wordpress,jquery,alpinejs,astro,git,github,mysql,sqlite,redis,apache" />
@@ -43,14 +43,14 @@
 
 ---
 
-## 🔥 Activity Graph
+## Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevDuulat&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 🎵 Spotify
+## Spotify
 <p align="center">
   <a href="https://open.spotify.com/track/0jkCWLX23gTLWtcSk1Vxyc" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-Listen-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
